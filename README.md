@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/Divyagupta)  
 
-### Hi there! 👋
-
 A passionate Developer, Programmer & Tech-savvy person from India
 
 ### Getting in touch
@@ -26,7 +24,7 @@ A passionate Developer, Programmer & Tech-savvy person from India
 
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
    <br>
-<h1> A passionate Developer, Programmer & Tech-savvy person from India </h2>
+
 ------------------------------------------------
 
 * 🌍  I'm based in Indore, India
