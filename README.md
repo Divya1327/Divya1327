@@ -1,16 +1,87 @@
 ### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/Divyagupta)  
 
-<!--
-**Divya1327/Divya1327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! 👋
 
-Here are some ideas to get you started:
+A passionate Developer, Programmer & Tech-savvy person from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Getting in touch
+
+<a href="https://twitter.com/DivyaGupta0913" title="Follow me on Twitter">
+  <img
+    width="24"
+    alt="Follow me on Twitter"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
+  /></a>
+&nbsp;
+<a href="www.linkedin.com/in/guptag-divya" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+  /></a>
+
+- ⚡ Fun fact : If you love Artificial intelligence than we are homies.
 -->
+
+   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <br>
+<h1> A passionate Developer, Programmer & Tech-savvy person from India </h2>
+------------------------------------------------
+
+* 🌍  I'm based in Indore, India
+* ✉️  You can contact me at [www.linkedin.com/in/guptag-divya](www.linkedin.com/in/guptag-divya)
+* 🧠  I’m currently learning Java
+* 🤝  I'm open to collaborating on Artificial Intelligence projects
+* 💬 Ask me about **JAVA | SPRINGBOOT | MYSQL | HIBERNATE | CSS | HTML | JAVASCRIPT**
+
+
+### Skills
+
+<p align="left">
+  
+
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="36" height="36"/> </a>
+
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman103767&show_icons=true&locale=en&layout=compact" alt="aman103767" /></p>
+
+  
+ 
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/DivyaGupta0913)
+ 
+ <p align="center">
+  <h4> JAVA | Javascript | Competitive Programming </h4>
+   </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guptag-divya/"> 
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+   
+   
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ </p>
+
+[![Divya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Divya1327&&theme=xcode)](https://github.com/Divya1327)
+
+
+
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+  
+
