@@ -1,3 +1,4 @@
+<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/Divyagupta)  
 
@@ -64,8 +65,15 @@ A passionate Developer, Programmer & Tech-savvy person from India
    
 <br />
 
-<h2 align="center">🤝 Support</h2>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<p><img width="90%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divya1327&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="divya" /></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<p>&nbsp;<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=Divya1327&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="divya" /></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya1327&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="divya" /></p>
+<h2 align="center">🤝 Support</h2>
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
