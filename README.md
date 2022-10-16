@@ -1,6 +1,6 @@
 <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/Divyagupta)  
+<!-- ![Profile views](https://gpvc.arturio.dev/Divyagupta)   -->
 
 A passionate Developer, Programmer & Tech-savvy person from India
 
