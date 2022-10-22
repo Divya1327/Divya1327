@@ -5,8 +5,22 @@
 A passionate Developer, Programmer & Tech-savvy person from India
 
 ### Getting in touch
+<a href="https://github.com/Divya1327" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/DivyaGupta0913" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/guptag-divya/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-<a href="https://twitter.com/DivyaGupta0913" title="Follow me on Twitter">
+<br/>  
+
+
+
+
+<!-- <a href="https://twitter.com/DivyaGupta0913" title="Follow me on Twitter">
   <img
     width="24"
     alt="Follow me on Twitter"
@@ -18,7 +32,7 @@ A passionate Developer, Programmer & Tech-savvy person from India
     width="24"
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
-  /></a>
+  /></a> -->
 
 - ⚡ Fun fact : If you love Artificial intelligence than we are homies.
 -->
