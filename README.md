@@ -2,7 +2,7 @@
 ### Hi there 👋
 <!-- ![Profile views](https://gpvc.arturio.dev/Divyagupta)   -->
 
-A passionate Developer, Programmer & Tech-savvy person from India
+Hello, My name is Divya Gupta. I Am A Java Backend Developer I Develop Web Applications Using Languages And Frameworks Like Java, Hibernate, Spring Boot
 
 ### Getting in touch
 <a href="https://github.com/Divya1327" target="_blank">
@@ -44,7 +44,6 @@ A passionate Developer, Programmer & Tech-savvy person from India
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [https://www.linkedin.com/in/guptag-divya/](https://www.linkedin.com/in/guptag-divya/)
-* 👨‍💻 Checkout my Portfolio divyaportfolio1327.netlify.app/
 * 💻 Checkout my Resume 
 * 🧠  I’m currently learning Java
 * 🤝  I'm open to collaborating on Artificial Intelligence projects
