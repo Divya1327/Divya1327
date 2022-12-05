@@ -44,6 +44,8 @@ A passionate Developer, Programmer & Tech-savvy person from India
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [https://www.linkedin.com/in/guptag-divya/](https://www.linkedin.com/in/guptag-divya/)
+* 👨‍💻 Checkout my Portfolio divyaportfolio1327.netlify.app/
+* 💻 Checkout my Resume 
 * 🧠  I’m currently learning Java
 * 🤝  I'm open to collaborating on Artificial Intelligence projects
 * 💬 Ask me about **JAVA | SPRINGBOOT | MYSQL | HIBERNATE | CSS | HTML | JAVASCRIPT**
