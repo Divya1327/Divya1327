@@ -2,7 +2,7 @@
 ### Hi there 👋
 <!-- ![Profile views](https://gpvc.arturio.dev/Divyagupta)   -->
 
-A Creative And Diligent Aspiring Full-Stack Developer With A Specialization In Java Backend. Self-Believing And Enthusiastic, With A Keen Interest In Building And Designing Backend. Looking Forward To Sharpening My Skills In A Challenging Environment. I Guarantee Enthusiasm In Work And Fulfilling My Projects With Inexpressible Efforts.
+A Creative And Diligent Aspiring Full-Stack Developer With A Specialization In Java Backend. Self-Believing And Enthusiastic, With A Keen Interest In Building And Designing Backend. Looking Forward To Sharpening My Skills In A Challenging Environment.
 
 ### Getting in touch
 <a href="https://github.com/Divya1327" target="_blank">
