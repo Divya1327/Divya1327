@@ -44,7 +44,7 @@ Hello, My name is Divya Gupta. I Am A Java Backend Developer I Develop Web Appli
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [https://www.linkedin.com/in/guptag-divya/](https://www.linkedin.com/in/guptag-divya/)
-* 💻 Checkout my Resume 
+* 💻 Checkout my Resume at https://github.com/Divya1327/Divya_Gupta_Resume/blob/main/Divya_Gupta_Resume.pdf
 * 🧠  I’m currently learning Java
 * 🤝  I'm open to collaborating on Artificial Intelligence projects
 * 💬 Ask me about **JAVA | SPRINGBOOT | MYSQL | HIBERNATE | CSS | HTML | JAVASCRIPT**
